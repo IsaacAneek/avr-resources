@@ -1,3 +1,6 @@
+# Arduino Core Resources
+- [Core Arduino tutorials](https://deepbluembedded.com/arduino-getting-started-beginners-guide)
+
 # AVR Assembly Resources
 - [AVR LibC Inline Assembly](https://www.nongnu.org/avr-libc/user-manual/inline_asm.html)
 - [GCC-AVR Inline Assembler Cookbook](https://web.stanford.edu/class/ee281/projects/aut2002/yingzong-mouse/media/GCCAVRInlAsmCB.pdf)
