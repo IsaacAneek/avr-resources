@@ -7,4 +7,4 @@
 - [AVR microcontroller programming with avr-libc and the GNU tool chain](https://github.com/matthew-macgregor/avr-assembly-examples)
 - [AVR assembly and debugging with VSCode and Platform IO](https://www.youtube.com/watch?v=BM-w1pcekxA)
 
-<b>Creadit goes to respective owners</b>
+<b>Credit goes to respective owners</b>
