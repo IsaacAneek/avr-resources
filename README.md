@@ -1,10 +1,13 @@
 # Arduino Core Resources
 - [Core Arduino tutorials](https://deepbluembedded.com/arduino-getting-started-beginners-guide)
+- [State Machine with Arduino](https://github.com/j-bellavance/Tutorials/tree/master/State%20machines%20Tutorial)
 # AVR Core Resources
 ### RTOS
 - [How to Build a Schedular](https://homes.cs.washington.edu/~shwetak/classes/ee472/notes/SchedImplementation.pdf)
 - [Premptive version of RIOS for AVR](https://www.cs.ucr.edu/~vahid/rios/rios_avr.htm)
 - [RIOS : A cooperative (simple or state-machine based) schedular](https://www.cs.ucr.edu/~vahid/rios)
+- [Cooperative vs. Preemptive: a quest to maximize concurrency power](https://medium.com/traveloka-engineering/cooperative-vs-preemptive-a-quest-to-maximize-concurrency-power-3b10c5a920fe)
+- [What are “co-operative” and “pre-emptive” scheduling algorithms?](https://www.rapitasystems.com/blog/what-are-co-operative-and-pre-emptive-scheduling-algorithms)
 ### AVR Communities
 - [AVR Freaks community](https://www.avrfreaks.net)
 ### AVR Simulator
