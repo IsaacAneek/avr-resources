@@ -7,6 +7,7 @@
 - [GCC-AVR Inline Assembler Cookbook](https://web.stanford.edu/class/ee281/projects/aut2002/yingzong-mouse/media/GCCAVRInlAsmCB.pdf)
 - [AVR-GCC Inline Assembler Cookbook AVR LibC](https://avrdudes.github.io/avr-libc/avr-libc-user-manual-2.2.0/inline_asm.html)
 ### AVR Assembly
+- [AVR Instruction set Manual](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/ReferenceManuals/AVR-InstructionSet-Manual-DS40002198.pdf)
 - [Arduino UNO LED Blink Assembly Program](https://atmega32-avr.com/explore-avr-assembly-language)
 - [AVR Optimization #1](https://www.bitbanging.space/posts/avr-code-optimization)
 - [AVR microcontroller programming with avr-libc and the GNU tool chain](https://github.com/matthew-macgregor/avr-assembly-examples)
