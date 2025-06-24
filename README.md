@@ -1,11 +1,16 @@
 # Arduino Core Resources
 - [Core Arduino tutorials](https://deepbluembedded.com/arduino-getting-started-beginners-guide)
-
-# AVR Assembly Resources
+# AVR Core Resources
+## AVR Communities
+- [AVR Freaks community](https://www.avrfreaks.net)
+## AVR Simulator
+- [AVR Sim (Web)](https://jonopriestley.github.io/avrsim)
+## AVR Assembly Resources
 ### AVR-GCC Inline Assembly
+- [Assembler Instructions with C Expression Operands](https://gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html)
 - [AVR LibC Inline Assembly](https://www.nongnu.org/avr-libc/user-manual/inline_asm.html)
-- [GCC-AVR Inline Assembler Cookbook](https://web.stanford.edu/class/ee281/projects/aut2002/yingzong-mouse/media/GCCAVRInlAsmCB.pdf)
 - [AVR-GCC Inline Assembler Cookbook AVR LibC](https://avrdudes.github.io/avr-libc/avr-libc-user-manual-2.2.0/inline_asm.html)
+- [GCC-AVR Inline Assembler Cookbook](https://web.stanford.edu/class/ee281/projects/aut2002/yingzong-mouse/media/GCCAVRInlAsmCB.pdf) [Deprecated]
 ### AVR Assembly
 - [Development of a Blink driver in AVR Assembler](https://github.com/mytechnotalent/Reverse-Engineering?tab=readme-ov-file#hacking-bits-course-chapter-7-blink-driver-in-c)
 - [AVR Instruction set Manual](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/ReferenceManuals/AVR-InstructionSet-Manual-DS40002198.pdf)
