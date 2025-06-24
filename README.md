@@ -1,9 +1,13 @@
 # Arduino Core Resources
 - [Core Arduino tutorials](https://deepbluembedded.com/arduino-getting-started-beginners-guide)
 # AVR Core Resources
-## AVR Communities
+### RTOS
+- [How to Build a Schedular](https://homes.cs.washington.edu/~shwetak/classes/ee472/notes/SchedImplementation.pdf)
+- [Premptive version of RIOS for AVR](https://www.cs.ucr.edu/~vahid/rios/rios_avr.htm)
+- [RIOS : A cooperative (simple or state-machine based) schedular](https://www.cs.ucr.edu/~vahid/rios)
+### AVR Communities
 - [AVR Freaks community](https://www.avrfreaks.net)
-## AVR Simulator
+### AVR Simulator
 - [AVR Sim (Web)](https://jonopriestley.github.io/avrsim)
 ## AVR Assembly Resources
 ### AVR-GCC Inline Assembly
