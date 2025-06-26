@@ -3,6 +3,8 @@
 - [State Machine with Arduino](https://github.com/j-bellavance/Tutorials/tree/master/State%20machines%20Tutorial)
 # AVR Core Resources
 ### RTOS
+- [Write a Premptive Task Schedualar for AVR](https://kevincuzner.com/2015/12/31/writing-a-preemptive-task-scheduler-for-avr)
+- [Multitasking the Arduino Part-1](https://learn.adafruit.com/multi-tasking-the-arduino-part-1)
 - [How to Build a Schedular](https://homes.cs.washington.edu/~shwetak/classes/ee472/notes/SchedImplementation.pdf)
 - [Premptive version of RIOS for AVR](https://www.cs.ucr.edu/~vahid/rios/rios_avr.htm)
 - [RIOS : A cooperative (simple or state-machine based) schedular](https://www.cs.ucr.edu/~vahid/rios)
@@ -12,6 +14,9 @@
 - [AVR Freaks community](https://www.avrfreaks.net)
 ### AVR Simulator
 - [AVR Sim (Web)](https://jonopriestley.github.io/avrsim)
+### AVR C
+- [Developing in C for the ATmega328: Multitasking](https://wellys.com/posts/avr_c_step6/)
+- [Hardware Debug: Using gdb to Debug](https://wellys.com/posts/avr_c_gdb/#)
 ## AVR Assembly Resources
 ### AVR-GCC Inline Assembly
 - [Assembler Instructions with C Expression Operands](https://gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html)
