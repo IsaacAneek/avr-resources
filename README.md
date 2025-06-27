@@ -15,10 +15,14 @@
 ### AVR Simulator
 - [AVR Sim (Web)](https://jonopriestley.github.io/avrsim)
 ### AVR C
+- [AVR-GCC](https://gcc.gnu.org/wiki/avr-gcc)
 - [Developing in C for the ATmega328: Multitasking](https://wellys.com/posts/avr_c_step6/)
 - [Hardware Debug: Using gdb to Debug](https://wellys.com/posts/avr_c_gdb/#)
 ## AVR Assembly Resources
 ### AVR-GCC Inline Assembly
+- [How to use Inline Assembly in C code](https://gcc.gnu.org/onlinedocs/gcc/Basic-Asm.html)
+- [Inline Assembler in AVR-GCC (Deutsch)](https://rn-wissen.de/wiki/index.php/Inline-Assembler_in_avr-gcc)
+- [Assembler and Inline Assembler (Deutsch)](https://www.mikrocontroller.net/articles/AVR-GCC-Tutorial/Assembler_und_Inline-Assembler)
 - [Assembler Instructions with C Expression Operands](https://gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html)
 - [AVR LibC Inline Assembly](https://www.nongnu.org/avr-libc/user-manual/inline_asm.html)
 - [AVR-GCC Inline Assembler Cookbook AVR LibC](https://avrdudes.github.io/avr-libc/avr-libc-user-manual-2.2.0/inline_asm.html)
