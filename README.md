@@ -15,6 +15,8 @@
 ### AVR Simulator
 - [AVR Sim (Web)](https://jonopriestley.github.io/avrsim)
 ### AVR C
+- [Mixing C and AVR Assembly](https://www.bitbanging.space/posts/mixing-c-and-assembly-for-avr-microcontrollers)
+- [AVR Optimization #1 - Avoid floating-point and other considerations](https://www.bitbanging.space/posts/avr-code-optimization)
 - [AVR-GCC](https://gcc.gnu.org/wiki/avr-gcc)
 - [Developing in C for the ATmega328: Multitasking](https://wellys.com/posts/avr_c_step6/)
 - [Hardware Debug: Using gdb to Debug](https://wellys.com/posts/avr_c_gdb/#)
@@ -31,7 +33,6 @@
 - [Development of a Blink driver in AVR Assembler](https://github.com/mytechnotalent/Reverse-Engineering?tab=readme-ov-file#hacking-bits-course-chapter-7-blink-driver-in-c)
 - [AVR Instruction set Manual](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/ReferenceManuals/AVR-InstructionSet-Manual-DS40002198.pdf)
 - [Arduino UNO LED Blink Assembly Program](https://atmega32-avr.com/explore-avr-assembly-language)
-- [AVR Optimization #1](https://www.bitbanging.space/posts/avr-code-optimization)
 - [AVR microcontroller programming with avr-libc and the GNU tool chain](https://github.com/matthew-macgregor/avr-assembly-examples)
 - [AVR Assembly Programming Cheatsheet](https://gist.github.com/jfamousket/6bb36547fbfc2669c87ff7f1cbe47a44)
 - [AVR Assembly examples](https://github.com/matthew-macgregor/avr-assembly-examples)
