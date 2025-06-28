@@ -2,6 +2,10 @@
 - [Core Arduino tutorials](https://deepbluembedded.com/arduino-getting-started-beginners-guide)
 - [State Machine with Arduino](https://github.com/j-bellavance/Tutorials/tree/master/State%20machines%20Tutorial)
 # AVR Core Resources
+### PWM
+- [Secrets of Arduino PWM](https://docs.arduino.cc/tutorials/generic/secrets-of-arduino-pwm)
+- [Power LED Dimmer using ATmega32 Microcontroller](https://circuitdigest.com/microcontroller-projects/power-led-dimmer-using-atmega32-pwm)
+- [What is PWM (Pulse Width Modulation)](https://circuitdigest.com/tutorial/what-is-pwm-pulse-width-modulation)
 ### RTOS
 - [Write a Premptive Task Schedualar for AVR](https://kevincuzner.com/2015/12/31/writing-a-preemptive-task-scheduler-for-avr)
 - [Multitasking the Arduino Part-1](https://learn.adafruit.com/multi-tasking-the-arduino-part-1)
