@@ -2,8 +2,15 @@
 - [Core Arduino tutorials](https://deepbluembedded.com/arduino-getting-started-beginners-guide)
 - [State Machine with Arduino](https://github.com/j-bellavance/Tutorials/tree/master/State%20machines%20Tutorial)
 # AVR Core Resources
+### I2C
+- [Understanding I2C](https://www.youtube.com/watch?v=CAvawEcxoPU)
+- [Fast SSD1306 OLED drawing with I2C bit banging](https://bitbanksoftware.blogspot.com/2018/05/fast-ssd1306-oled-drawing-with-i2c-bit.html)
+- [Tiny Graphics Library for use with an I2C 128x64 OLED display on an ATtiny85](http://www.technoblogy.com/show?23OS)
+- [Adding two OLED displays to your Arduino logger (without a library)](https://thecavepearlproject.org/2020/11/15/adding-two-oled-displays-to-your-arduino-logger-with-no-library)
+- [Debugging SSD1306 Display Problems](https://iotexpert.com/debugging-ssd1306-display-problems)
 ### PWM
 - [Secrets of Arduino PWM](https://docs.arduino.cc/tutorials/generic/secrets-of-arduino-pwm)
+- [What the heck is double buffering, and why should you care?](https://doctor-pasquale.com/2025/04/29/skipped-toggles-using-atmega328p-timer-counter-1-in-ctc-mode)
 - [Power LED Dimmer using ATmega32 Microcontroller](https://circuitdigest.com/microcontroller-projects/power-led-dimmer-using-atmega32-pwm)
 - [What is PWM (Pulse Width Modulation)](https://circuitdigest.com/tutorial/what-is-pwm-pulse-width-modulation)
 ### RTOS
