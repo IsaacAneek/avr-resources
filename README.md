@@ -5,7 +5,9 @@
 ### I2C
 - [Understanding I2C](https://www.youtube.com/watch?v=CAvawEcxoPU)
 - [Fast SSD1306 OLED drawing with I2C bit banging](https://bitbanksoftware.blogspot.com/2018/05/fast-ssd1306-oled-drawing-with-i2c-bit.html)
-- [Tiny Graphics Library for use with an I2C 128x64 OLED display on an ATtiny85](http://www.technoblogy.com/show?23OS)
+- [Tiny Graphics Library for use with an I2C 128x64 OLED display on an ATtiny85 <b>[SH1106]</b>](http://www.technoblogy.com/show?23OS)
+- [Tiny Function Plotter <b>[SSD1306]</b>](http://www.technoblogy.com/show?2CFT)
+- [Code for the Tiny Function Plotter](http://www.technoblogy.com/list?2CWV)
 - [Adding two OLED displays to your Arduino logger (without a library)](https://thecavepearlproject.org/2020/11/15/adding-two-oled-displays-to-your-arduino-logger-with-no-library)
 - [Debugging SSD1306 Display Problems](https://iotexpert.com/debugging-ssd1306-display-problems)
 ### PWM
