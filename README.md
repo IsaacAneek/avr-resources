@@ -2,14 +2,26 @@
 - [Core Arduino tutorials](https://deepbluembedded.com/arduino-getting-started-beginners-guide)
 - [State Machine with Arduino](https://github.com/j-bellavance/Tutorials/tree/master/State%20machines%20Tutorial)
 # AVR Core Resources
+### Basic Electronics
+- Pull up and Pull down Resistors
+  - [Pull Up Resistor: What is it (And How Does it Work)?](https://www.electrical4u.com/pull-up-resistor/)
+  - [Pull-up and Pull-down Resistors](https://www.circuitbasics.com/pull-up-and-pull-down-resistors/)
+  - [The Pull-Up Resistor: How It Works and Choosing a Value](https://www.build-electronic-circuits.com/pull-up-resistor/)
+  - [Pull-up Resistors](https://www.electronics-tutorials.ws/logic/pull-up-resistor.html)
 ### I2C
-- [Understanding I2C](https://www.youtube.com/watch?v=CAvawEcxoPU)
-- [Fast SSD1306 OLED drawing with I2C bit banging](https://bitbanksoftware.blogspot.com/2018/05/fast-ssd1306-oled-drawing-with-i2c-bit.html)
-- [Tiny Graphics Library for use with an I2C 128x64 OLED display on an ATtiny85 <b>[SH1106]</b>](http://www.technoblogy.com/show?23OS)
-- [Tiny Function Plotter <b>[SSD1306]</b>](http://www.technoblogy.com/show?2CFT)
-- [Code for the Tiny Function Plotter](http://www.technoblogy.com/list?2CWV)
-- [Adding two OLED displays to your Arduino logger (without a library)](https://thecavepearlproject.org/2020/11/15/adding-two-oled-displays-to-your-arduino-logger-with-no-library)
-- [Debugging SSD1306 Display Problems](https://iotexpert.com/debugging-ssd1306-display-problems)
+- Basics of I2C
+  - [Understanding I2C](https://www.youtube.com/watch?v=CAvawEcxoPU)
+  - [Programming AVR I2C interface](https://embedds.com/programming-avr-i2c-interface/)
+  - [I2C Communication Concept : Arduino / ATmega328p](https://www.arnabkumardas.com/arduino-tutorial/i2c-concept/)
+  - [Using the I2C Interface on the ATmega328P](https://ece-classes.usc.edu/ee459/library/documents/I2C.pdf)
+  - [Basics of I2C communication | Hardware implementation of I2C bus](https://www.youtube.com/watch?v=pbqk5yqbfuw)
+- I2C Implementation
+  - [Fast SSD1306 OLED drawing with I2C bit banging](https://bitbanksoftware.blogspot.com/2018/05/fast-ssd1306-oled-drawing-with-i2c-bit.html)
+  - [Tiny Graphics Library for use with an I2C 128x64 OLED display on an ATtiny85 <b>[SH1106]</b>](http://www.technoblogy.com/show?23OS)
+  - [Tiny Function Plotter <b>[SSD1306]</b>](http://www.technoblogy.com/show?2CFT)
+  - [Code for the Tiny Function Plotter](http://www.technoblogy.com/list?2CWV)
+  - [Adding two OLED displays to your Arduino logger (without a library)](https://thecavepearlproject.org/2020/11/15/adding-two-oled-displays-to-your-arduino-logger-with-no-library)
+  - [Debugging SSD1306 Display Problems](https://iotexpert.com/debugging-ssd1306-display-problems)
 ### PWM
 - [Secrets of Arduino PWM](https://docs.arduino.cc/tutorials/generic/secrets-of-arduino-pwm)
 - [What the heck is double buffering, and why should you care?](https://doctor-pasquale.com/2025/04/29/skipped-toggles-using-atmega328p-timer-counter-1-in-ctc-mode)
@@ -60,4 +72,4 @@
 - [AVR: Architecture, Assembly & Reverse Engineering](https://hackaday.io/course/176685-avr-architecture-assembly-reverse-engineering)
 
 
-### <b>All credits go to the respective owners</b>
+### <b>All CREDITS GO TO THE RESPECTIVE OWNERS/AUTHORS</b>
