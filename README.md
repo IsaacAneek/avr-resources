@@ -22,6 +22,13 @@
   - [I2C Communication Concept : Arduino / ATmega328p](https://www.arnabkumardas.com/arduino-tutorial/i2c-concept/)
   - [Using the I2C Interface on the ATmega328P](https://ece-classes.usc.edu/ee459/library/documents/I2C.pdf)
   - [Basics of I2C communication | Hardware implementation of I2C bus](https://www.youtube.com/watch?v=pbqk5yqbfuw)
+  - Related Info
+    - Bus Capacitance in I2C
+      - [I2C pull up resistance, rise time and bus capacitance discussion](https://fastbitlab.com/i2c-pull-up-resistance-rise-time-and-bus-capacitance-discussion/)
+      - [How to calculate the I2C bus capacitance](https://community.nxp.com/t5/Kinetis-Microcontrollers/How-to-calculate-the-I2C-bus-capacitance/m-p/1079510)
+      - [What is Bus capacitance?](https://www.edaboard.com/threads/what-is-bus-capacitance.211149/)
+      - [I2C Design Mathematics: Capacitance and Resistance](https://www.allaboutcircuits.com/technical-articles/i2c-design-mathematics-capacitance-and-resistance/)
+      - [What is Bus capacitance in I2C? How it limits number of devices can be connected to the bus?](https://electronics.stackexchange.com/questions/494718/what-is-bus-capacitance-in-i2c-how-it-limits-number-of-devices-can-be-connected)
 - I2C Implementation
   - [Interfacing an accelerometer over I2C with the ATmega328p](https://timothymcpherson.wordpress.com/2015/09/07/interfacing-over-i2c-with-the-atmega328p/)
   - [Fast SSD1306 OLED drawing with I2C bit banging](https://bitbanksoftware.blogspot.com/2018/05/fast-ssd1306-oled-drawing-with-i2c-bit.html)
