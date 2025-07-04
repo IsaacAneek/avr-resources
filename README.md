@@ -1,13 +1,15 @@
 # Arduino Core Resources
 - [Core Arduino tutorials](https://deepbluembedded.com/arduino-getting-started-beginners-guide)
 - [State Machine with Arduino](https://github.com/j-bellavance/Tutorials/tree/master/State%20machines%20Tutorial)
-# AVR Core Resources
-### Basic Electronics
-- Pull up and Pull down Resistors
+
+# Basic Electronics
+### Pull up and Pull down Resistors
   - [Pull Up Resistor: What is it (And How Does it Work)?](https://www.electrical4u.com/pull-up-resistor/)
   - [Pull-up and Pull-down Resistors](https://www.circuitbasics.com/pull-up-and-pull-down-resistors/)
   - [The Pull-Up Resistor: How It Works and Choosing a Value](https://www.build-electronic-circuits.com/pull-up-resistor/)
   - [Pull-up Resistors](https://www.electronics-tutorials.ws/logic/pull-up-resistor.html)
+
+# AVR Core Resources
 ### I2C
 - Basics of I2C
   - [Understanding I2C](https://www.youtube.com/watch?v=CAvawEcxoPU)
