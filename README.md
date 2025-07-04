@@ -8,6 +8,10 @@
   - [Pull-up and Pull-down Resistors](https://www.circuitbasics.com/pull-up-and-pull-down-resistors/)
   - [The Pull-Up Resistor: How It Works and Choosing a Value](https://www.build-electronic-circuits.com/pull-up-resistor/)
   - [Pull-up Resistors](https://www.electronics-tutorials.ws/logic/pull-up-resistor.html)
+### Open Drain/Open Collector Configuration
+  - [What is Open Drain : Configuration & Its Applications](https://www.watelectronics.com/open-drain/)
+  - [Push-pull/Open drain;pull-up/pull-down](https://electronics.stackexchange.com/questions/28091/push-pull-open-drain-pull-up-pull-down)
+  - [What is an Open Drain : Configuration & Its Working](https://www.elprocus.com/what-is-an-open-drain-configuration-its-working/)
 
 # AVR Core Resources
 ### I2C
