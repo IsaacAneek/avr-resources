@@ -1,5 +1,5 @@
 # Arduino Core Resources
-- <a href="https://deepbluembedded.com/arduino-getting-started-beginners-guide" target=_blank>Core Arduino tutorials</a>
+- <a href="https://deepbluembedded.com/arduino-getting-started-beginners-guide" target="_blank">Core Arduino tutorials</a>
 - [State Machine with Arduino](https://github.com/j-bellavance/Tutorials/tree/master/State%20machines%20Tutorial)
 # AVR Core Resources
 ### Basic Electronics
