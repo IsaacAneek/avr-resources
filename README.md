@@ -16,12 +16,14 @@
 # AVR Core Resources
 ### I2C
 - Basics of I2C
+  - [I2C devices connected to Arduino UNO (Atmega328p)](https://github.com/abmj01/ATmega328p_I2C)
   - [Understanding I2C](https://www.youtube.com/watch?v=CAvawEcxoPU)
   - [Programming AVR I2C interface](https://embedds.com/programming-avr-i2c-interface/)
   - [I2C Communication Concept : Arduino / ATmega328p](https://www.arnabkumardas.com/arduino-tutorial/i2c-concept/)
   - [Using the I2C Interface on the ATmega328P](https://ece-classes.usc.edu/ee459/library/documents/I2C.pdf)
   - [Basics of I2C communication | Hardware implementation of I2C bus](https://www.youtube.com/watch?v=pbqk5yqbfuw)
 - I2C Implementation
+  - [Interfacing an accelerometer over I2C with the ATmega328p](https://timothymcpherson.wordpress.com/2015/09/07/interfacing-over-i2c-with-the-atmega328p/)
   - [Fast SSD1306 OLED drawing with I2C bit banging](https://bitbanksoftware.blogspot.com/2018/05/fast-ssd1306-oled-drawing-with-i2c-bit.html)
   - [Tiny Graphics Library for use with an I2C 128x64 OLED display on an ATtiny85 <b>[SH1106]</b>](http://www.technoblogy.com/show?23OS)
   - [Tiny Function Plotter <b>[SSD1306]</b>](http://www.technoblogy.com/show?2CFT)
