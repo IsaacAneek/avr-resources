@@ -29,6 +29,13 @@
       - [What is Bus capacitance?](https://www.edaboard.com/threads/what-is-bus-capacitance.211149/)
       - [I2C Design Mathematics: Capacitance and Resistance](https://www.allaboutcircuits.com/technical-articles/i2c-design-mathematics-capacitance-and-resistance/)
       - [What is Bus capacitance in I2C? How it limits number of devices can be connected to the bus?](https://electronics.stackexchange.com/questions/494718/what-is-bus-capacitance-in-i2c-how-it-limits-number-of-devices-can-be-connected)
+    - Bus Arbitration in I2C
+      - [Basics of I2C : Advanced Topics](https://www.ti.com/content/dam/videos/external-videos/en-us/8/3816841626001/6243124608001.mp4/subassets/adcs-introduction-to-i2c-advanced-topics-presentation.pdf)
+      - [Bus Arbitration](https://www.esacademy.com/en/library/technical-articles-and-documents/miscellaneous/i2c-bus/general-introduction/bus-arbitration.html)
+      - [Getting Started with I2C: What is Bus Arbitration](https://embeddedwala.com/Blogs/DigitalCommunication/Getting-Started-with-I2C:-What-is-Bus-Arbitration)
+    - Clock Streching
+      - [Getting Started with I2C: What is Clock Stretching](https://embeddedwala.com/Blogs/DigitalCommunication/Getting-Started-with-I2C:-What-is-Clock-Stretching)
+      - [STM32 I2C Lecture 13: Clock Stretching](https://fastbitlab.com/stm32-i2c-lecture-13-clock-stretching/)
 - I2C Implementation
   - [Interfacing an accelerometer over I2C with the ATmega328p](https://timothymcpherson.wordpress.com/2015/09/07/interfacing-over-i2c-with-the-atmega328p/)
   - [Fast SSD1306 OLED drawing with I2C bit banging](https://bitbanksoftware.blogspot.com/2018/05/fast-ssd1306-oled-drawing-with-i2c-bit.html)
