@@ -22,6 +22,7 @@
   - [Basics of I2C communication | Hardware implementation of I2C bus](https://www.youtube.com/watch?v=pbqk5yqbfuw)
   - Related Info
     - Bus Capacitance in I2C
+      - [Parasitic Capacitance](https://en.wikipedia.org/wiki/Parasitic_capacitance)
       - [I2C pull up resistance, rise time and bus capacitance discussion](https://fastbitlab.com/i2c-pull-up-resistance-rise-time-and-bus-capacitance-discussion/)
       - [How to calculate the I2C bus capacitance](https://community.nxp.com/t5/Kinetis-Microcontrollers/How-to-calculate-the-I2C-bus-capacitance/m-p/1079510)
       - [What is Bus capacitance?](https://www.edaboard.com/threads/what-is-bus-capacitance.211149/)
