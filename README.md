@@ -92,5 +92,14 @@
 - [AVR Assembler for Complex Projects](https://kitsandparts.com/tutorials/assemblers/AdvancedAVRASM2.pdf)
 - [AVR: Architecture, Assembly & Reverse Engineering](https://hackaday.io/course/176685-avr-architecture-assembly-reverse-engineering)
 
+## Similar sources
+- [Crack you Embedded Interview](https://github.com/imsunilvaghela/TheEmbeDEADInterview)
+- [Helping you prepare for your upcoming embedded interviews](https://github.com/Bassel20/Embedded-Systems-Interview-Questions-Answers?tab=readme-ov-file)
+- [AVR Programming](https://github.com/hexagon5un/AVR-Programming)
+- [Learn Embedded Systems](https://github.com/erinjense/Learn-Embedded-Systems)
+- [TheEmbeddedNewTestament](https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io/tree/master)
+- [AwesomeEmbedded](https://github.com/nhivp/Awesome-Embedded)
+- [Awesome-C](https://github.com/uhub/awesome-c)
+- [Awesome Embedded Systems](https://github.com/embedded-boston/awesome-embedded-systems)
 
 ### <b>All CREDITS GO TO THE RESPECTIVE OWNERS/AUTHORS</b>
