@@ -1,7 +1,3 @@
-# Arduino Core Resources
-- [Core Arduino tutorials](https://deepbluembedded.com/arduino-getting-started-beginners-guide)
-- [State Machine with Arduino](https://github.com/j-bellavance/Tutorials/tree/master/State%20machines%20Tutorial)
-
 # Basic Electronics
 ### Pull up and Pull down Resistors
   - [Pull Up Resistor: What is it (And How Does it Work)?](https://www.electrical4u.com/pull-up-resistor/)
@@ -16,6 +12,8 @@
 # AVR Core Resources
 ### I2C
 - Basics of I2C
+  - [I2C Wikipedia](https://en.wikipedia.org/wiki/I%C2%B2C#)
+  - [How I2C Interface Functions?](https://digilent.com/blog/i2c-how-does-it-work/)
   - [I2C devices connected to Arduino UNO (Atmega328p)](https://github.com/abmj01/ATmega328p_I2C)
   - [Understanding I2C](https://www.youtube.com/watch?v=CAvawEcxoPU)
   - [Programming AVR I2C interface](https://embedds.com/programming-avr-i2c-interface/)
