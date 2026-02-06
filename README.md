@@ -10,6 +10,11 @@
   - [What is an Open Drain : Configuration & Its Working](https://www.elprocus.com/what-is-an-open-drain-configuration-its-working/)
 
 # AVR Core Resources
+### UART
+- Basics of UART
+  - [Back to Basics: The Universal Asynchronous Receiver/Transmitter (UART)](https://www.allaboutcircuits.com/technical-articles/back-to-basics-the-universal-asynchronous-receiver-transmitter-uart/)
+  - [UART Baud Rate: How Accurate Does It Need to Be?](https://www.allaboutcircuits.com/technical-articles/the-uart-baud-rate-clock-how-accurate-does-it-need-to-be/)
+  - [AVR Atmega328P UART](http://www.rjhcoding.com/avrc-uart.php)
 ### I2C
 - Basics of I2C
   - [I2C Wikipedia](https://en.wikipedia.org/wiki/I%C2%B2C#)
