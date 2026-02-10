@@ -10,6 +10,8 @@
   - [What is an Open Drain : Configuration & Its Working](https://www.elprocus.com/what-is-an-open-drain-configuration-its-working/)
 
 # AVR Core Resources
+### Bootloader
+- [Simple AVR Bootloader Tutorial](https://github.com/m3y54m/simple-avr-bootloader)
 ### UART
 - Basics of UART
   - [Back to Basics: The Universal Asynchronous Receiver/Transmitter (UART)](https://www.allaboutcircuits.com/technical-articles/back-to-basics-the-universal-asynchronous-receiver-transmitter-uart/)
@@ -66,6 +68,7 @@
 ### AVR Simulator
 - [AVR Sim (Web)](https://jonopriestley.github.io/avrsim)
 ### AVR C
+- [Getting started with AVR programming](https://github.com/m3y54m/start-avr)
 - [Mixing C and AVR Assembly](https://www.bitbanging.space/posts/mixing-c-and-assembly-for-avr-microcontrollers)
 - [AVR Optimization #1 - Avoid floating-point and other considerations](https://www.bitbanging.space/posts/avr-code-optimization)
 - [AVR-GCC](https://gcc.gnu.org/wiki/avr-gcc)
