@@ -10,6 +10,9 @@
   - [What is an Open Drain : Configuration & Its Working](https://www.elprocus.com/what-is-an-open-drain-configuration-its-working/)
 
 # AVR Core Resources
+### Interrupts
+- [Interrupts and 16-bit Timer/Counter 1: ATmega Interrupts](https://www.arxterra.com/10-atmega328p-interrupts/)
+- [Interrupts](https://gammon.com.au/interrupts)
 ### Bootloader
 - [Simple AVR Bootloader Tutorial](https://github.com/m3y54m/simple-avr-bootloader)
 ### UART
