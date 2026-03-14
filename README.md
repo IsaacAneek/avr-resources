@@ -71,6 +71,7 @@
 ### AVR Simulator
 - [AVR Sim (Web)](https://jonopriestley.github.io/avrsim)
 ### AVR C
+- [Profiling of Embedded Code Explained Through Examples!](https://embeddedinventor.com/profiling-of-embedded-code-explained-through-examples/)
 - [Getting started with AVR programming](https://github.com/m3y54m/start-avr)
 - [Mixing C and AVR Assembly](https://www.bitbanging.space/posts/mixing-c-and-assembly-for-avr-microcontrollers)
 - [AVR Optimization #1 - Avoid floating-point and other considerations](https://www.bitbanging.space/posts/avr-code-optimization)
