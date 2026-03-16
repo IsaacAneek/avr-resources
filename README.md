@@ -10,9 +10,13 @@
   - [What is an Open Drain : Configuration & Its Working](https://www.elprocus.com/what-is-an-open-drain-configuration-its-working/)
 
 # AVR Core Resources
+## [ATmega328P Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
 ### Interrupts
 - [Interrupts and 16-bit Timer/Counter 1: ATmega Interrupts](https://www.arxterra.com/10-atmega328p-interrupts/)
 - [Interrupts](https://gammon.com.au/interrupts)
+- [[TUT] Newbie's Guide to AVR Interrupts](https://www.avrfreaks.net/s/topic/a5C3l000000UIYbEAO/t085127)
+- [<avr/interrupt.h>: Interrupts](https://avrdudes.github.io/avr-libc/avr-libc-user-manual/group__avr__interrupts.html)
+- [6.7 Reset and Interrupt Handling (pg. 15 of ATmega328p datasheet)](https://github.com/IsaacAneek/avr-resources/edit/main/README.md#atmega328p-datasheet)
 ### Bootloader
 - [Simple AVR Bootloader Tutorial](https://github.com/m3y54m/simple-avr-bootloader)
 ### UART
