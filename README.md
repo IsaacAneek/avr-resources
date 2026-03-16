@@ -16,7 +16,7 @@
 - [Interrupts](https://gammon.com.au/interrupts)
 - [[TUT] Newbie's Guide to AVR Interrupts](https://www.avrfreaks.net/s/topic/a5C3l000000UIYbEAO/t085127)
 - [<avr/interrupt.h>: Interrupts](https://avrdudes.github.io/avr-libc/avr-libc-user-manual/group__avr__interrupts.html)
-- [6.7 Reset and Interrupt Handling (pg. 15 of ATmega328p datasheet)](https://github.com/IsaacAneek/avr-resources/edit/main/README.md#atmega328p-datasheet)
+- [6.7 Reset and Interrupt Handling (pg. 15 of ATmega328p datasheet)](https://github.com/IsaacAneek/avr-resources?tab=readme-ov-file#atmega328p-datasheet)
 ### Bootloader
 - [Simple AVR Bootloader Tutorial](https://github.com/m3y54m/simple-avr-bootloader)
 ### UART
