@@ -82,6 +82,11 @@
 - [AVR-GCC](https://gcc.gnu.org/wiki/avr-gcc)
 - [Developing in C for the ATmega328: Multitasking](https://wellys.com/posts/avr_c_step6/)
 - [Hardware Debug: Using gdb to Debug](https://wellys.com/posts/avr_c_gdb/#)
+- Memory
+  - [Memory Sections](https://avrdudes.github.io/avr-libc/avr-libc-user-manual/mem_sections.html)
+  - [C memory layout](https://www.avrfreaks.net/s/topic/a5C3l000000BqGsEAK/t391526)
+  - [Memory Areas and Using malloc()](https://avrdudes.github.io/avr-libc/avr-libc-user-manual-2.3.0/malloc.html)
+  - [Memory Sections](https://www.nongnu.org/avr-libc/user-manual/mem_sections.html)
 ## AVR Assembly Resources
 ### AVR-GCC Inline Assembly
 - [How to use Inline Assembly in C code](https://gcc.gnu.org/onlinedocs/gcc/Basic-Asm.html)
